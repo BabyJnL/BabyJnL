@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Ariya Panna a.k.a BabyJnL</h1>
+<h1 align="center">Hi there 👋, I'm Ariya Panna</h1>
 <h3 align="center">Demonstrated exceptional aptitude in programming especially Back-End Engineer</h3>
 
 - 🔭 I’m currently working on **Can Ngopi Point of Sale**
@@ -9,6 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/ariya-panna-3a383428b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ariya-panna-3a383428b" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
