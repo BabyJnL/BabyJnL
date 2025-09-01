@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Ariya Panna</h1>
 <h3 align="center">Demonstrated exceptional aptitude in programming especially Back-End Engineer</h3>
 
-- 🔭 I’m currently working on **Can Ngopi Point of Sale**
+- 🔭 I’m currently an intern at **PT. Summarecon Agung, TBK.**
 
-- 🌱 I’m currently learning **Laravel, Design Patterns, Software Architecture**
+- 🌱 I’m currently learning **Design Patterns and Software Architecture**
 
 - 📫 How to reach me **ariyapanna.engineer@gmail.com**
 
